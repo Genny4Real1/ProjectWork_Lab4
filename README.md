@@ -43,6 +43,8 @@ For installation, agent integration, and project-specific `metavr` workflows, se
 
 Package versions are recorded in `Packages/manifest.json`; the Unity Editor version is in `ProjectSettings/ProjectVersion.txt`.
 
+Builds are stored in the Build/ directory at the root of the repository. Call each build by `Sicurezza-Immersiva-81_ver<num>.apk`
+
 ## Project structure
 
 The shared Unity project content is organized under `Assets/_Project/`:
