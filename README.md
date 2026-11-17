@@ -104,3 +104,6 @@ Use the conventions summarized from the project’s `Nomenclatura.md` reference 
 - Use PascalCase for classes, functions, and public variables; camelCase for private and protected variables; and UPPERCASE for constants. Choose descriptive names and document functions with summaries.
 - Use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for writing commit title and descriptions. It is a lightweight convention for creating an explicit commit history.  
   
+### Trello
+
+[Trello bello](https://trello.com/invite/b/6afc491e791da3ce73455544/ATTI449dcb37ca55de1be79691aaaa0d1f30CC681F3E/🗂%EF%B8%8F-bacheca-attivita-e-scadenze)
