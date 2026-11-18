@@ -136,3 +136,7 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local-only test sandbox; not part of the shared project structure
+/Assets/_Project/Groups/Test
+/Assets/_Project/Groups/Test.meta
